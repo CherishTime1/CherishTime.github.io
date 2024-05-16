@@ -1,0 +1,1 @@
+define({ availableImg: ["Ahmad2023Sentiment","Cam2024Sentiment","Chan2017Sentiment","Guijarro2019Liquidity","Petropoulos2021Can","Qian2022Understanding","Shivani2023Sentiment","Sohangir2018Big","Soong2021Sentiment","Xiang2022Semantic"]});
